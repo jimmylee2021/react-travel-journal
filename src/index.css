@@ -114,4 +114,8 @@ article {
     .info-box {
         width: 300px;
     }
+    .entry-div {
+        display: flex;
+        flex-direction: column;
+    }
 }
